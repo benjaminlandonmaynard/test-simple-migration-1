@@ -1,6 +1,6 @@
 # README #
 
-This README would normally document whatever steps are necessary to get your application up and running.
+This is a test Bitbucket project for GitHub Q1.
 
 ### What is this repository for? ###
 
